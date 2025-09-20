@@ -25,7 +25,7 @@ export default function App() {
 
       <div className="bottom-section">
         <div className="box purple"></div>
-        <div className="box orange bottom-orange">C-PCIT9LEC</div>
+        <div className="box orange bottom-orange">C-PCIT9LAB</div>
         <div className="box orange bottom-orange">IT-3B</div>
         <div className="box purple"></div>
       </div>
